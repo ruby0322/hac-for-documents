@@ -1,12 +1,14 @@
 ---
 title: 112-1 IRTM PA4
 author: Kuan-Cheng, Ku; B10705016
-Date: Dec. 18th, 2023
+date: Dec. 18th, 2023
 colorlinks: yes
 urlcolor: blue
 ---
 
 # Hierarchical Agglomerative Clustering (HAC) Project
+
+[GitHub Repo](https://github.com/ruby0322/hac-for-documents)
 
 ## Overview
 
